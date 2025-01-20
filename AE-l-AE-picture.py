@@ -1,7 +1,3 @@
-# 卿雨竹
-# 开发时间：2025-01-14 13:10
-# 卿雨竹
-# 开发时间：2024-12-11 13:41
 from data_load import *
 from utils import *
 import torch
