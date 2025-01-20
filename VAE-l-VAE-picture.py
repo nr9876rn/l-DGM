@@ -1,5 +1,3 @@
-# 卿雨竹
-# 开发时间：2025-01-14 14:12
 import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
