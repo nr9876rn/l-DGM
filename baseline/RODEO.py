@@ -1,6 +1,3 @@
-# 卿雨竹
-# 开发时间：2025-01-04 15:34
-# 导入所需库
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
