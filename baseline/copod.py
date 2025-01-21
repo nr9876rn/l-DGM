@@ -1,6 +1,3 @@
-# 卿雨竹
-# 开发时间：2024-12-22 17:23
-# 训练 COPOD 模型
 from pyod.models.copod import COPOD
 from data_load import *
 from utils import *
