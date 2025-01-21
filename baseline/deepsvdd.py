@@ -1,5 +1,3 @@
-# 卿雨竹
-# 开发时间：2024-12-22 17:41
 from pyod.models.deep_svdd import DeepSVDD
 
 from data_load import *
