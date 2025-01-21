@@ -1,5 +1,3 @@
-# 卿雨竹
-# 开发时间：2024-12-30 1:26
 import torch
 import torch.nn as nn
 import torch.optim as optim
