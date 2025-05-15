@@ -1,5 +1,3 @@
-# 卿雨竹
-# 开发时间：2025-04-29 20:51
 import pickle
 from sklearn.ensemble import IsolationForest as IForest
 from normalize import *
